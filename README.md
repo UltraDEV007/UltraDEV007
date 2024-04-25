@@ -1,4 +1,4 @@
-### Hi, I'm Sergey <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
+### Hi, I'm @UltraDEV007 <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
 I am a **Frontend developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
 
 ## 🛠️ My stack
