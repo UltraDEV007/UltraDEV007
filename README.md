@@ -5,7 +5,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-%2492DAFB.svg?&style=for-the-badge&logo=vue&logoColor=black)
+![Vue](https://img.shields.io/badge/vue-%6432DAFB.svg?&style=for-the-badge&logo=vue&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
