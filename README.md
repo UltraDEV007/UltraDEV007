@@ -25,7 +25,9 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 
 ## 📈 Stats and widgets
 
-![Sergey K GitHub stats](https://github-readme-stats.vercel.app/api?username=systemshock89&show_icons=true&theme=catppuccin_latte )
+<a href="https://github.com/berthutapea">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
 <br>
 ![Visits](https://komarev.com/ghpvc/?username=systemshock89)
 
