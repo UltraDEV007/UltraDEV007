@@ -1,5 +1,21 @@
 ### Hi, I'm @UltraDEV007 <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
 I am a **Frontend developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
+### 👨‍💻 Here's Some Fun Facts About Me:
+
+- 💬 I am capable to solve working problems.
+
+- 💥 I would love to build some Giant Website which will shine myself.
+
+- ⚡ Passionate about learning & development to reach the target.
+
+<!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
+
+- 📫 How to reach me : **nigoodmorning@gmail.com**
+<br><br><br>
+
+<a href="https://github.com/UltraDEV007/">
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
+</a>
 
 ## 🛠️ My stack
 
@@ -23,25 +39,9 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📈 Stats and widgets
+<br>
 
+<h2 align="left">🔥Stats and widgets</h2>
 <a href="https://github.com/berthutapea">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
-<br>
-![Visits](https://komarev.com/ghpvc/?username=systemshock89)
-
-<!--
-**systemshock89/systemshock89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
