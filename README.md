@@ -10,7 +10,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 
 <!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
 
-- 📫 How to reach me : **nigoodmorning@gmail.com**
+- 📫 How to reach me : **bigoodmorning@gmail.com**
 <br><br><br>
 
 <a href="https://github.com/UltraDEV007/">
