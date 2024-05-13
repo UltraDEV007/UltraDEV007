@@ -8,8 +8,6 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 
 - ⚡ Passionate about learning & development to reach the target.
 
-<!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
-
 - 📫 How to reach me : **bigoodmorning@gmail.com**
 <br><br><br>
 
