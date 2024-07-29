@@ -8,7 +8,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 
 - ⚡ Passionate about learning & development to reach the target.
 
-- 📫 How to reach me : **bigoodmorning1990@gmail.com**
+- 📫 How to reach me : **lopez.jonathan0401@gmail.com**
 <br><br><br>
 
 <a href="https://github.com/UltraDEV007/">
