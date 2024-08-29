@@ -1,4 +1,4 @@
-### Hi, I'm Jonathan <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
+### Hi,  <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
 I am a **Full Stack developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
