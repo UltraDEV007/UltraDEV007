@@ -8,7 +8,7 @@ I am a **Full Stack developer (React, Redux, JS)** with extensive experience **c
 
 - ⚡ Passionate about learning & development to reach the target.
 
-- 📫 How to reach me : **lopez.jonathan0401@gmail.com**
+- 📫 How to reach me : **@gmail.com**
 <br><br><br>
 
 <a href="https://github.com/UltraDEV007/">
