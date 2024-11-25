@@ -1,5 +1,5 @@
 ### Hi,  <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
-I am a **Full Stack developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
+I am a **Full Stack developer (React, Redux, React Native, Swift, Kotlin, JS, Web & Mobile Application)** with extensive experience **css/html** coding and **backend** developer background.
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
 - 💬 I am capable to solve working problems.
