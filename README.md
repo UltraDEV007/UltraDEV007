@@ -8,7 +8,7 @@ I am a **Full Stack developer (React, Redux, React Native, Swift, Kotlin, JS, We
 
 - ⚡ Passionate about learning & development to reach the target.
 
-- 📫 How to reach me : **lopez.jonathan0401@gmail.com**, **Skype: +1 614 697 4195**
+- 📫 How to reach me : **lopez.jonathan0401@gmail.com**, **WhatsApp: +1 (303) 710-6548**
 <br><br><br>
 
 <a href="https://github.com/UltraDEV007/">
