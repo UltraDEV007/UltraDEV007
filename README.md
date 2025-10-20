@@ -8,7 +8,7 @@ Seasoned Web && Mobile Application Developer with over 12 years of hands-on expe
 
 - ⚡ Passionate about learning & development to reach the target.
 
-- 📫 How to reach me : **lopez.jonathan0401@gmail.com**, **WhatsApp: +1 (303) 710-6548**
+- 📫 How to reach me : **WhatsApp: +1 (303) 710-6548**
 <br><br><br>
 
 <a href="https://github.com/UltraDEV007/">
